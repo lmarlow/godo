@@ -22,3 +22,8 @@
 === 1.0.8 / 2008-05-30
 
 * Lots of small improvements including more from Lee Marlow
+
+=== 1.0.9 / 2008-06-30
+
+* Add support for mrxvt terminal
+

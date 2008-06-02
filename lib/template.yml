@@ -201,3 +201,4 @@ projects:
 # or to override for a specific project.
 # sessions: ITermSession
 # sessions: TerminalSession
+# sessions: MrxvtSession

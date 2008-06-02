@@ -1,7 +1,7 @@
 = godo
 
-* version: 1.0.8
-* released: 2008-05-28
+* version: 1.0.9
+* released: 2008-06-02
 * http://simplyruby.rubyforge.org/godo
 
 == DESCRIPTION:

@@ -10,3 +10,4 @@ lib/session.rb
 lib/template.yml
 lib/sessions/iterm_session.rb
 lib/sessions/terminal_session.rb
+lib/sessions/mrxvt_session.rb
